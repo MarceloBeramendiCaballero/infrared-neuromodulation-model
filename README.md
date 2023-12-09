@@ -1,6 +1,6 @@
 <h1> Modeling the heating process of Aplysia californica's pleural abdominal nerve under infrared inhibition
 
- ### [Project Presentation](https://www.youtube.com/watch?v=sIuwEhxQNAs&ab_channel=MarceloBeramendiCaballero)
+ ### [Project Presentation](https://youtu.be/HQRCRfi-xwQ)
 
  <h2>Description</h2>
  
